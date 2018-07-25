@@ -18,7 +18,7 @@
  * 
  */
 int main(int argc, char** argv) {
-
+    printf("el famosos hola mundo");
     return (EXIT_SUCCESS);
 }
 
